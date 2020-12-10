@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Journal Recipe</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="myfood">MyFood</string>
+    <string name="makanan_indonesia">Makanan Indonesia</string>
+    <string name="sate_kambing">Sate Kambing</string>
+    <string name="list_makanan">List Makanan</string>
+    <string name="todo">TODO</string>
+    <string name="foto_makanan">foto makanan</string>
+    <string name="makanan_jepang">Makanan Jepang</string>
+    <string name="makanan_korea">Makanan Korea</string>
+    <string name="info_makanan">Info Makanan</string>
+</resources>
